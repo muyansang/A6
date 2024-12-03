@@ -1,0 +1,34 @@
+# Assignment 6 reflection
+
+## Submitter metadata
+
+Partner 1: Firstname Lastname (NetID)  - TODO
+Partner 2: Firstname Lastname (NetID)  - delete if working solo
+
+Hours spent working on this assignment: 0.0  - TODO
+
+## Verification questions
+
+1. Approximately how much faster does your app finish processing the clocktower
+   image when using your `HeapMinQueue` vs. the `RefMinQueue`?  (with assertions
+   disabled)
+
+   Answer: TODO
+
+## Reflection questions
+
+1. When completing A5, did you make any assumptions specific to point-to-point
+   selections that you had to relax or fix in order to work with A6's new
+   selection model?  What do you think would be a good technique to help
+   developers avoid assuming things beyond what's specified in an interface?
+
+   Answer: TODO
+
+2. Describe your custom weigher(s) and what inspired you to do the calculations
+   that you did.
+
+   Answer: TODO
+
+3. What is your favorite thing you learned or accomplished in CS 2110?
+
+   Answer: TODO
